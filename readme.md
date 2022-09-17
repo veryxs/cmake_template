@@ -1,0 +1,1 @@
+This is a C++ project template managed with Cmake Tools
