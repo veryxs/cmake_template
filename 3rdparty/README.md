@@ -1,0 +1,1 @@
+This folder is used to store third-party libraries and include files.
